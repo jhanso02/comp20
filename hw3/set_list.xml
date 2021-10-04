@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+
+<set_list>
+    <song>
+        <artist>All Time Low</artist>
+        <title>Dear Marie, Count Me In</title>
+        <genre>pop punk</genre>
+        <year>2007</year>
+    </song>
+    <song>
+        <artist>All Time Low</artist>
+        <title>Weightless</title>
+        <genre>alternative</genre>
+        <year>2009</year>
+    </song>
+    <song>
+        <artist>Relient K</artist>
+        <title>Be My Escape</title>
+        <genre>rock</genre>
+        <year>2004</year>
+    </song>
+    <song>
+        <artist>Rob Rokicki</artist>
+        <title>Son of Poseidon</title>
+        <genre>rock</genre>
+        <year>2014</year>
+    </song>
+    <song>
+        <artist>Newsies Ensemble</artist>
+        <title>Carrying The Banner</title>
+        <genre>show tune</genre>
+        <year>1992</year>
+    </song>
+    <song>
+        <artist>Bill Withers</artist>
+        <title>Ain't No Sunshine</title>
+        <genre>r&amp;b</genre>
+        <year>1971</year>
+    </song>
+    <song>
+        <artist>Cascada</artist>
+        <title>Everytime We Touch</title>
+        <genre>pop</genre>
+        <year>2006</year>
+    </song>
+    <song>
+        <artist>Blue Oyster Cult</artist>
+        <title>Burnin' for You</title>
+        <genre>rock</genre>
+        <year>1981</year>
+    </song>
+    <song>
+        <artist>Masatoshi Ono</artist>
+        <title>Departure</title>
+        <genre>j-pop</genre>
+        <year>2011</year>
+    </song>
+    <song>
+        <artist>Burnout Syndroms</artist>
+        <title>FLY HIGH!!</title>
+        <genre>j-pop</genre>
+        <year>2016</year>
+    </song>
+</set_list>
