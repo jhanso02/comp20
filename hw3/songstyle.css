@@ -1,0 +1,23 @@
+set_list {
+    background: rgb(186,225,255);
+    background: linear-gradient(90deg, rgba(186,225,255,1) 0%, rgba(197,188,255,1) 25%, rgba(211,152,255,1) 56%, rgba(237,207,255,1) 89%);
+}
+  
+song {
+    width: 1000px;
+    padding: 20px;
+    text-align: left;
+    font-family: Georgia;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+artist {
+    font-style: italic;
+}
+
+title {
+    font-size: 18px;
+    font-weight: bold;
+}
